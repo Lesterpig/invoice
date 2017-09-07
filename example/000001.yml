@@ -1,0 +1,19 @@
+id: 1
+client: |-
+  John Doe
+  john@doe.com
+emitted: 2017-09-07T19:52:36.077742938+02:00
+delivered: 2017-09-07T19:52:36.07774337+02:00
+services:
+- description: Conseil
+  unitcost: 600
+  unit: "jours"
+  quantity: 10
+- description: Frais de dossier
+  unitcost: 66.66
+  quantity: 1
+comment: |-
+  Paiement en e-coin uniquement
+currency: 8364
+paymentdays: 15
+quote: false
